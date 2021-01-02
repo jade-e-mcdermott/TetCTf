@@ -34,7 +34,7 @@ def TryInjectedPayloadOnLocal(injectedPayload):
 
 
 # Main
-injectedPayload = "146&02"
+injectedPayload = "%270%274"
 results = TryInjectedPayloadOnLocal(injectedPayload)
 print(results)
 

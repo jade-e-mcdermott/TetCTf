@@ -14,9 +14,12 @@ else
     if($wl === 0 || strlen($_GET["calc"]) > 70) {
         die("Tired of calculating? Lets <a href='https://www.youtube.com/watch?v=wDe_aCyf4aE' target=_blank >relax</a> <3");
     }
-    echo 'Result: ';
     echo $_GET["calc"];
+    echo 'Result: ';
+    
     eval("echo ".eval("return ".$_GET["calc"].";").";");
 }
 //echo result of:
 //return 2*2;
+//("return " + "'0'.4" + ";" )
+// return '.0.4'
