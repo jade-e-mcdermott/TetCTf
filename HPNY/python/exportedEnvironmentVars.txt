@@ -1,0 +1,18 @@
+('Stats: ', 200)
+<!-- Let's pray for new year lucky things <3 -->
+
+LANGUAGE=en_US:
+APACHE_RUN_DIR=/var/run/apache2
+APACHE_PID_FILE=/var/run/apache2/apache2.pid
+JOURNAL_STREAM=9:57541
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+INVOCATION_ID=c66f5dee93134eaab7558c4c86904be7
+APACHE_LOCK_DIR=/var/lock/apache2
+LANG=C
+APACHE_RUN_USER=www-data
+APACHE_RUN_GROUP=www-data
+APACHE_LOG_DIR=/var/log/apache2
+PWD=/var/www/html
+/var/www/html
+
+
