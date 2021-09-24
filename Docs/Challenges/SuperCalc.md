@@ -10,8 +10,6 @@ Uses an apache web server running on ubuntu
 
 The html also has a comment
 
-```
-
 `<!-- Enjoy Tsu's Super Calculator <3, Not Only + - * / but also many other operators <3 <3 <3 -→`
 
 Thats not a real html comment... it doesn't have a real ending line....
@@ -44,9 +42,10 @@ This took awhile.
 
 Hitting it with no param gives me this:
 
-[`http://139.180.155.171/](http://139.180.155.171/)?`
+[http://139.180.155.171/](http://139.180.155.171/)
 
-```jsx
+```
+jsx
 <!-- Enjoy Tsu's Super Calculator <3, Not Only + - * / but also many other operators <3 <3 <3 -->
 
 <?php
@@ -68,7 +67,8 @@ else
 }
 ```
 
-@ini_set( ‘display_errors’, 0 );
+
+`@ini_set( ‘display_errors’, 0 );`
 
 Setup logging of all errors.
 
