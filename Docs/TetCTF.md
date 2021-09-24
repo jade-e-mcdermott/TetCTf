@@ -26,7 +26,7 @@ Interesting include of another php script
 
 [HPNY](Challenges/HPNY.md)
 
-[MySQLimit](Challenges/MySQLLimit.md)
+[MySQLimit](Challenges/MySQLimit.md)
 
 ## Takeaways
 
