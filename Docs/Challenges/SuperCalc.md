@@ -38,12 +38,12 @@ Too bad there is no ssl or dns, no other names...
 
 This took awhile.
 
-[http://139.180.155.171/?calc=<2,147,483,647](http://139.180.155.171/?calc=%3C2,147,483,647)
+`http://139.180.155.171/?calc=<2,147,483,647`
 
 Hitting it with no param gives me this:
 
-[http://139.180.155.171/](http://139.180.155.171/)
-
+Request: `http://139.180.155.171/?`
+Response:
 ```
 jsx
 <!-- Enjoy Tsu's Super Calculator <3, Not Only + - * / but also many other operators <3 <3 <3 -->
