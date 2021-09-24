@@ -22,11 +22,11 @@ A php script?
 
 Interesting include of another php script
 
-[Super Calc](TetCTF/Super%20Calc.md)
+[Super Calc](Challenges/SuperCalc.md)
 
-[HPNY](TetCTF%20db113441280145068d23d09d9027c4f1/HPNY%205f3683427d514e1cb0e88a5f06dc69d5.md)
+[HPNY](Challenges/HPNY.md)
 
-[MySQLimit](TetCTF%20db113441280145068d23d09d9027c4f1/MySQLimit%20712a043140fb4e02bda483bda3b688eb.md)
+[MySQLimit](Challenges/MySQLLimit.md)
 
 ## Takeaways
 
