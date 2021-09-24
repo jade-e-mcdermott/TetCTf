@@ -10,7 +10,9 @@ Uses an apache web server running on ubuntu
 
 The html also has a comment
 
-<!-- Enjoy Tsu's Super Calculator <3, Not Only + - * / but also many other operators <3 <3 <3 -→
+```
+
+`<!-- Enjoy Tsu's Super Calculator <3, Not Only + - * / but also many other operators <3 <3 <3 -→`
 
 Thats not a real html comment... it doesn't have a real ending line....
 
